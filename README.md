@@ -50,10 +50,21 @@ This project implements a semantic segmentation pipeline for identifying four ob
 
 ---
 
+### EDA Analysis
+![image_class_distribution](https://github.com/user-attachments/assets/9513cc46-d9ce-4ec2-a941-f2d499bc9b4c)
+
+
+
 ## 📊 Visual Results
 
 Model predictions are visualized alongside ground truth masks for both validation and test sets. Each mask is color-coded according to the class legend.
 <img width="988" alt="Screenshot 2025-06-18 at 5 27 00 PM" src="https://github.com/user-attachments/assets/44f7a640-138d-4a6d-8be7-575115472a0d" />
+<img width="984" alt="Screenshot 2025-06-18 at 5 27 15 PM" src="https://github.com/user-attachments/assets/d47751c0-3230-4200-b32b-84f7f5131784" />
+<img width="984" alt="Screenshot 2025-06-18 at 5 27 15 PM" src="https://github.com/user-attachments/assets/951dfc24-8934-46c3-b48e-301a01f7c7a2" />
+<img width="982" alt="Screenshot 2025-06-18 at 5 27 41 PM" src="https://github.com/user-attachments/assets/67811070-56b6-47ef-82b1-4945f4e5cf75" />
+
+
+
 
 
 ---
